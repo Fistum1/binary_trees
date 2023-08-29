@@ -1,7 +1,7 @@
 #include "binary_trees.h"
 
 /**
- * binary_trees_ancestor : A function that checks an ancestor
+ * binary_trees_ancestor - A function that checks an ancestor
  * @first: First node
  * @second: Second node
  * Return: Node of the ancestor

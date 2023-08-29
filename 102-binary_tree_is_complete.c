@@ -1,6 +1,6 @@
 #include "binary_trees.h"
 /**
- * new_node : A function that creates a new_node in a linked_list
+ * new_node - A function that creates a new_node in a linked_list
  * @node: The type pointer of node to be created
  * Return: The node created
  */

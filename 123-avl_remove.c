@@ -23,7 +23,7 @@ void bal(avl_t **tree)
 		*tree = binary_tree_rotate_left((binary_tree_t *)*tree);
 }
 /**
- * successor : Get the next successor i mean the min node in the right subtree
+ * successor - Get the next successor i mean the min node in the right subtree
  * @node: A tree to check
  * Return: The minimum value of this tree
  */
@@ -48,7 +48,7 @@ int successor(bst_t *node)
 
 }
 /**
- *remove_type : A function that removes a node depending of its children
+ *remove_type - A function that removes a node depending of its children
  *@root: A node to remove
  *Return: 0 if it has no children or other value if it has
  */
@@ -123,7 +123,7 @@ bst_t *bst_remove(bst_t *root, int value)
 }
 
 /**
- * avl_remove : It removes a node from a AVL tree
+ * avl_remove - It removes a node from a AVL tree
  * @root: The root of the tree
  * @value: A node with this value to remove
  * Return: Tree changed

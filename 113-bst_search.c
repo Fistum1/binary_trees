@@ -1,6 +1,6 @@
 #include "binary_trees.h"
 /**
- * bst_search : Search for a special value in the tree and return the node
+ * bst_search - Search for a special value in the tree and return the node
  * @tree: A tree to go through
  * @value: A value to search
  * Return: The node with the value or NULL if the value is not in the tree

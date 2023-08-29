@@ -1,6 +1,6 @@
 #include "binary_trees.h"
 /**
- * check_sub_tree_Left : It checks if all nodes are smaller
+ * check_sub_tree_Left - It checks if all nodes are smaller
  * than the root specified
  * @node: A node in the tree to verify condition
  * @max: A value to compare
