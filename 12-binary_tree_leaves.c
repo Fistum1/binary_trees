@@ -1,6 +1,6 @@
 #include "binary_trees.h"
 /**
- * binary_tree_leaves : A function that returns the number of leaves in a tree
+ * binary_tree_leaves - A function that returns the number of leaves in a tree
  * @tree: A tree to check
  * Return: The number of leaves
  */

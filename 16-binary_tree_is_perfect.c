@@ -1,6 +1,6 @@
 #include "binary_trees.h"
 /**
- * tree_is_perfect : A function that says if a tree is perfect or not
+ * tree_is_perfect - A function that says if a tree is perfect or not
  * it has to be the same quantity of levels in left as right,
  * and also each node has to have 2 nodes or none
  * @tree: A tree to check

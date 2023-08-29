@@ -1,7 +1,7 @@
 #include "binary_trees.h"
 
 /**
- * binary_tree_uncle : A function that finds if a node is sibling
+ * binary_tree_uncle - A function that finds if a node is sibling
  * @node: A node to check
  * Return: Uncle node
  */
